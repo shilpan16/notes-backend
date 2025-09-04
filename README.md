@@ -37,7 +37,7 @@ Ensure you have the following installed:
    ```bash
    git clone https://github.com/shilpan16/notes-backend.git
    cd notes-backend
-````
+   ```
 
 2. Create a virtual environment:
 
@@ -87,41 +87,4 @@ Contributions are welcome! Please fork the repository, create a branch, and subm
 ## License
 
 This project is licensed under the MIT License.
-
-````
-
----
-
-### ✅ How to Add This to Your GitHub Repository
-
-1. **Create a README.md File**:
-   - Navigate to your project directory.
-   - Create a new file named `README.md`:
-
-     ```bash
-     touch README.md
-     ```
-
-2. **Add the Content**:
-   - Open the `README.md` file in a text editor.
-   - Copy and paste the template provided above into the file.
-
-3. **Commit the Changes**:
-   - Stage the new file:
-
-     ```bash
-     git add README.md
-     ```
-
-   - Commit the changes:
-
-     ```bash
-     git commit -m "Add README.md"
-     ```
-
-   - Push the changes to your GitHub repository:
-
-     ```bash
-     git push origin main
-     ```
 
