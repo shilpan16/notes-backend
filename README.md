@@ -8,6 +8,16 @@ A lightweight RESTful API built with FastAPI to manage notes. This backend suppo
 Access the live API here:  
 🔗 [https://notes-backend-vug3.onrender.com](https://notes-backend-vug3.onrender.com)
 
+## Frontend
+
+The frontend for this Notes App is built with React and deployed on Vercel:  
+🔗 [https://notes-frontend-navy-pi.vercel.app/notes](https://notes-frontend-navy-pi.vercel.app/notes)  
+🔗 [Vercel Project Dashboard](https://vercel.com/shilpa-nerallas-projects/notes-frontend)
+
+> The frontend consumes this backend API for creating, reading, updating, deleting, and sharing notes.
+
+## Features
+
 ## Features
 
 - **Create Notes**: Add new notes with titles and content.
