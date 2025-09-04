@@ -77,6 +77,12 @@ def get_db():
     finally:
         db.close()
 
+
+# Root Route
+@app.get("/")
+def root():
+    return {"message": "Notes App Backend is running. Use /notes or /login endpoints."}
+ 
 # -----------------------
 # Routes
 # -----------------------
